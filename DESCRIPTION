@@ -1,0 +1,16 @@
+Package: SampleCCNoMatchedMultiENG
+Title: Sample Size Calculation for Unmatched Case-Control Studies
+Version: 0.1.0
+Authors@R: 
+    person("Victor J.", "Vera-Ponce", email = "victor_jvp@hotmail.com",
+           role = c("aut", "cre"))
+Description: Tools for calculating sample sizes in unmatched case-control studies,
+    considering different methodological approaches including the effect of
+    covariables and logistical aspects of the study.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    stats
+LazyData: true
